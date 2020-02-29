@@ -4,8 +4,8 @@ ___
 AbdulQudus Adebogun <br/>
 Front-end Mobile: React Native
 ___
-Name <br/>
-Track
+Name: Kazeem Asiwaju-Bello <br/>
+Track: ReactJs
 ___
 Name <br/>
 Track
